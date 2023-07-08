@@ -21,17 +21,17 @@
 
 -- navbar.header:
 logo: $assets.files.images.logo.svg
-logoURL: /YOUR_REPOSITORY_NAME
+logoURL: /india
 header-item1: Home
 header-item2: About
 header-item3: Blogs
 header-item4: Projects
-header-item1-link: /YOUR_REPOSITORY_NAME
-header-item2-link: /YOUR_REPOSITORY_NAME/about
-header-item3-link: /YOUR_REPOSITORY_NAME/blogs
-header-item4-link: /YOUR_REPOSITORY_NAME/projects
+header-item1-link: /india
+header-item2-link: /india/about
+header-item3-link: /india/blogs
+header-item4-link: /india/projects
 cta-item2: Resume
-cta-item2-link: /YOUR_REPOSITORY_NAME/resume
+cta-item2-link: /india/resume
 
 ;; ----------------------------------------------------------------
 ;; ***** PORTFOLIO Header ends *****
@@ -71,7 +71,7 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: YOUR_NAME,
+secondTitle: Prakhar Jain,
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: frontend
@@ -79,7 +79,7 @@ secondTitle: developer
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: and
-secondTitle: explorer.
+secondTitle: I am Batman.
 
 -- ftd.text: design and create functional and beautiful applications with passion and a focus on user experience and high quality.
 role: $lib.home-description-responsive-typography
@@ -117,23 +117,23 @@ isNewTab: true
 spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
-link: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+link: https://www.linkedin.com/in/prakhar-jain-4b4817254/
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
-link: https://twitter.com/YOUR_TWITTER_USERNAME
+link: https://twitter.com/Prakhar39092270
 image: $assets.files.images.twitter.png
 
 -- social.social-button-wrapper:
-link: https://github.com/YOUR_GITHUB_USERNAME
+link: https://github.com/peterprakhar
 image: $assets.files.images.github.png
 
 -- social.social-button-wrapper:
-link: https://instagram.com/YOUR_INSTAGRAM_USERNAME
+link: https://instagram.com/_jain__saab__
 image: $assets.files.images.instagram.png
 
 -- social.social-button-wrapper:
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:prakharjain8632@gmail.com
 image: $assets.files.images.mail.png
 
 -- end: ftd.row
